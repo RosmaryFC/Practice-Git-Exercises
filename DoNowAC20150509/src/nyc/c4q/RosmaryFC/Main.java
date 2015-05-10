@@ -19,6 +19,7 @@ public class Main {
         System.out.println(reverse("Quispe"));
         System.out.println(uppercaseWords("i love java"));
         System.out.println(reverseWords("Java Love I"));
+        System.out.println(uppercaseWords(reverse("food is good")));
     }
 
 
